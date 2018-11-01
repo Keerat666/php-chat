@@ -1,0 +1,2 @@
+# php-chat
+A chatroom based in php where multiple users can chat with each other in a single chat room . Uses mysqli as the database .The name of the databse to be created in the phpadmin is called chat2 , with 4 fields , id , name , message , date. The id is an auto increment entry and has data type Int . Name and Message are both of types varchar , with a length of 255 characters . The data has a datatype timestamp and it's initial value is the current datastamp.
